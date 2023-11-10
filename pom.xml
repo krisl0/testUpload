@@ -18,7 +18,8 @@
                 
     
     <version>2.2.0.M4</version>
-  
+ 	
+    <relativePath>../pom.xml</relativePath>
     
     <!-- lookup parent from repository -->
             
